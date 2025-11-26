@@ -41,7 +41,7 @@ dataset_path = kagglehub.dataset_download("kausthubkannan/5-flower-types-classif
 ## 🧪 Project Structure
 
 ```
-│── main.py                   # Main script
+│── TRANSFER-LEARNING-PROJECT.py                   # Main script
 │── README.md                 # Project documentation
 ```
 
@@ -111,8 +111,8 @@ The InceptionV3 model reaches strong performance with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yourusername/TRANSFER-LEARNING-PROJECT.git
+cd TRANSFER-LEARNING-PROJECT
 ```
 
 
