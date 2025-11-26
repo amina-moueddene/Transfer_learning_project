@@ -111,8 +111,8 @@ The InceptionV3 model reaches strong performance with:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/TRANSFER-LEARNING-PROJECT.git
-cd TRANSFER-LEARNING-PROJECT
+git clone https://github.com/amina-moueddene/Transfer_learning_project.git
+cd Transfer_learning_project
 ```
 
 
