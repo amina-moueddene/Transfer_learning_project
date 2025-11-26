@@ -41,7 +41,7 @@ dataset_path = kagglehub.dataset_download("kausthubkannan/5-flower-types-classif
 ## 🧪 Project Structure
 
 ```
-│── TRANSFER-LEARNING-PROJECT.py                   # Main script
+│── Projet_DL_Transfer_Learning.ipynb                   # Main script
 │── README.md                 # Project documentation
 ```
 
