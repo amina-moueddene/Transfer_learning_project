@@ -19,6 +19,9 @@ The workflow includes:
 
 ---
 
+<img width="896" height="600" alt="tasks" src="https://github.com/user-attachments/assets/3770c2ff-5c97-40b0-af7b-b3ae3dc21b78" />
+
+
 ## 📂 Dataset
 
 **Kaggle dataset:** *5 Flower Types Classification Dataset*
@@ -114,7 +117,6 @@ The InceptionV3 model reaches strong performance with:
 git clone https://github.com/amina-moueddene/Transfer_learning_project.git
 cd Transfer_learning_project
 ```
-<img width="896" height="860" alt="tasks" src="https://github.com/user-attachments/assets/3770c2ff-5c97-40b0-af7b-b3ae3dc21b78" />
 
 ## 📧 Contact
 
