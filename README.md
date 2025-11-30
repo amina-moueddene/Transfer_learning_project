@@ -102,7 +102,7 @@ model.save("inceptionv3_001.h5")
 
 The InceptionV3 model reaches strong performance with:
 
-* Test accuracy ≈ **87%** (depending on training environment)
+* Test accuracy ≈ **90%** (depending on training environment)
 
 ---
 
